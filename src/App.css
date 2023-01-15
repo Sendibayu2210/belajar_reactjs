@@ -1,0 +1,13 @@
+.btn-login{
+  width: 100px;
+  border-radius: 20px;
+}
+
+.landing-client{
+  padding: 50px 0;    
+}
+.img-client{
+  height: 40px;  
+  margin: 15px;
+  filter: grayscale(1);
+}
